@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hello, I'm Júlia Gonçalves! 👋</h1>
 </div>
 
