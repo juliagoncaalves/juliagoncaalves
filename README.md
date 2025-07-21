@@ -20,5 +20,4 @@
 
 <h3>:octocat: Estatísticas do GitHub</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliagoncaalves&show_icons=true&theme=jolly&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliagoncaalves&layout=compact&theme=jolly&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliagoncaalves&show_icons=true&theme=jolly&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliagoncaalves&layout=compact&theme=jolly&langs_count=8)
