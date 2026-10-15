@@ -5,7 +5,7 @@
 ### 👩‍💻 About me
 
 * 💻 Software Engineering & Backend Developer
-* ⚛️ Bachelor's degree in Computer Science 
+* ⚛️ Computer Science Student
 * 🚀 Postgraduate in Software Engineering
 * 🎓 Bachelor's degree in Systems Analysis and Development
 
